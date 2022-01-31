@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DaireninAlanıCevresi/DaireninAlanıCevresi.iml" filepath="$PROJECT_DIR$/DaireninAlanıCevresi/DaireninAlanıCevresi.iml" />
       <module fileurl="file://$PROJECT_DIR$/KDV/KDV.iml" filepath="$PROJECT_DIR$/KDV/KDV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManavKasaProgram/ManavKasaProgram.iml" filepath="$PROJECT_DIR$/ManavKasaProgram/ManavKasaProgram.iml" />
       <module fileurl="file://$PROJECT_DIR$/VucutKitleIndeksi/VucutKitleIndeksi.iml" filepath="$PROJECT_DIR$/VucutKitleIndeksi/VucutKitleIndeksi.iml" />
       <module fileurl="file://$PROJECT_DIR$/gradeAverage/gradeAverage.iml" filepath="$PROJECT_DIR$/gradeAverage/gradeAverage.iml" />
       <module fileurl="file://$PROJECT_DIR$/hipotenus/hipotenus.iml" filepath="$PROJECT_DIR$/hipotenus/hipotenus.iml" />
