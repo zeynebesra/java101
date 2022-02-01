@@ -12,6 +12,7 @@ public class Main {
 
         System.out.print("Yıl Giriniz: ");
         year = input.nextInt();
+        System.out.print("-----------------------\n");
 
         if (year % 4 == 0)
         {
@@ -19,21 +20,21 @@ public class Main {
             {
                 if (year % 400 == 0)
                 {
-                    System.out.println(year + "Bir artık yıldır.");
+                    System.out.println(year + "\nBir artık yıldır.");
                 }
                 else
                 {
-                    System.out.println(year + "Bir artık yıl değildir.");
+                    System.out.println(year + "\nBir artık yıl değildir.");
                 }
             }
             else
             {
-                System.out.println(year+ "Bir artık yıldır.");
+                System.out.println(year+ "\nBir artık yıldır.");
             }
         }
         else
         {
-            System.out.println(year + "Bir artık yıl değildir.");
+            System.out.println(year + "\nBir artık yıl değildir.");
         }
 
     }
