@@ -3,10 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DaireninAlanıCevresi/DaireninAlanıCevresi.iml" filepath="$PROJECT_DIR$/DaireninAlanıCevresi/DaireninAlanıCevresi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HavaSicakGoreEtkinlik/HavaSicakGoreEtkinlik.iml" filepath="$PROJECT_DIR$/HavaSicakGoreEtkinlik/HavaSicakGoreEtkinlik.iml" />
       <module fileurl="file://$PROJECT_DIR$/HesapMakinesi/HesapMakinesi.iml" filepath="$PROJECT_DIR$/HesapMakinesi/HesapMakinesi.iml" />
       <module fileurl="file://$PROJECT_DIR$/KDV/KDV.iml" filepath="$PROJECT_DIR$/KDV/KDV.iml" />
       <module fileurl="file://$PROJECT_DIR$/KullaniciGirisi/KullaniciGirisi.iml" filepath="$PROJECT_DIR$/KullaniciGirisi/KullaniciGirisi.iml" />
       <module fileurl="file://$PROJECT_DIR$/ManavKasaProgram/ManavKasaProgram.iml" filepath="$PROJECT_DIR$/ManavKasaProgram/ManavKasaProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SinifiGecme/SinifiGecme.iml" filepath="$PROJECT_DIR$/SinifiGecme/SinifiGecme.iml" />
       <module fileurl="file://$PROJECT_DIR$/VucutKitleIndeksi/VucutKitleIndeksi.iml" filepath="$PROJECT_DIR$/VucutKitleIndeksi/VucutKitleIndeksi.iml" />
       <module fileurl="file://$PROJECT_DIR$/gradeAverage/gradeAverage.iml" filepath="$PROJECT_DIR$/gradeAverage/gradeAverage.iml" />
       <module fileurl="file://$PROJECT_DIR$/hipotenus/hipotenus.iml" filepath="$PROJECT_DIR$/hipotenus/hipotenus.iml" />
