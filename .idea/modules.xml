@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/EbobEkok/EbobEkok.iml" filepath="$PROJECT_DIR$/EbobEkok/EbobEkok.iml" />
       <module fileurl="file://$PROJECT_DIR$/FaktoriyelHesaplama/FaktoriyelHesaplama.iml" filepath="$PROJECT_DIR$/FaktoriyelHesaplama/FaktoriyelHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/FibonacciSerisi/FibonacciSerisi.iml" filepath="$PROJECT_DIR$/FibonacciSerisi/FibonacciSerisi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GelismisHesapMakinesi/GelismisHesapMakinesi.iml" filepath="$PROJECT_DIR$/GelismisHesapMakinesi/GelismisHesapMakinesi.iml" />
       <module fileurl="file://$PROJECT_DIR$/GirilenSayiKüçükIkiKuvvetBulan/GirilenSayiKüçükIkiKuvvetBulan.iml" filepath="$PROJECT_DIR$/GirilenSayiKüçükIkiKuvvetBulan/GirilenSayiKüçükIkiKuvvetBulan.iml" />
       <module fileurl="file://$PROJECT_DIR$/HarmonikSayilariBulma/HarmonikSayilariBulma.iml" filepath="$PROJECT_DIR$/HarmonikSayilariBulma/HarmonikSayilariBulma.iml" />
       <module fileurl="file://$PROJECT_DIR$/HavaSicakGoreEtkinlik/HavaSicakGoreEtkinlik.iml" filepath="$PROJECT_DIR$/HavaSicakGoreEtkinlik/HavaSicakGoreEtkinlik.iml" />
@@ -24,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/MinMaxDegerleriBulma/MinMaxDegerleriBulma.iml" filepath="$PROJECT_DIR$/MinMaxDegerleriBulma/MinMaxDegerleriBulma.iml" />
       <module fileurl="file://$PROJECT_DIR$/MukemmelSayiBulma/MukemmelSayiBulma.iml" filepath="$PROJECT_DIR$/MukemmelSayiBulma/MukemmelSayiBulma.iml" />
       <module fileurl="file://$PROJECT_DIR$/PalindromSayi/PalindromSayi.iml" filepath="$PROJECT_DIR$/PalindromSayi/PalindromSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecursiveFibonacciSerisiBulma/RecursiveFibonacciSerisiBulma.iml" filepath="$PROJECT_DIR$/RecursiveFibonacciSerisiBulma/RecursiveFibonacciSerisiBulma.iml" />
       <module fileurl="file://$PROJECT_DIR$/SayilarinSiralayin/SayilarinSiralayin.iml" filepath="$PROJECT_DIR$/SayilarinSiralayin/SayilarinSiralayin.iml" />
       <module fileurl="file://$PROJECT_DIR$/SinifiGecme/SinifiGecme.iml" filepath="$PROJECT_DIR$/SinifiGecme/SinifiGecme.iml" />
       <module fileurl="file://$PROJECT_DIR$/TekSayiToplamiBulan/TekSayiToplamiBulan.iml" filepath="$PROJECT_DIR$/TekSayiToplamiBulan/TekSayiToplamiBulan.iml" />
