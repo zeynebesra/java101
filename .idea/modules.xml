@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/ArtikYilHesaplama/ArtikYilHesaplama.iml" filepath="$PROJECT_DIR$/ArtikYilHesaplama/ArtikYilHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/AsalSayiBulmak/AsalSayiBulmak.iml" filepath="$PROJECT_DIR$/AsalSayiBulmak/AsalSayiBulmak.iml" />
       <module fileurl="file://$PROJECT_DIR$/AsalSayilariBulma/AsalSayilariBulma.iml" filepath="$PROJECT_DIR$/AsalSayilariBulma/AsalSayilariBulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BoksOyunu/BoksOyunu.iml" filepath="$PROJECT_DIR$/BoksOyunu/BoksOyunu.iml" />
       <module fileurl="file://$PROJECT_DIR$/BurcBulanProgram/BurcBulanProgram.iml" filepath="$PROJECT_DIR$/BurcBulanProgram/BurcBulanProgram.iml" />
       <module fileurl="file://$PROJECT_DIR$/CiftSayilariBulan/CiftSayilariBulan.iml" filepath="$PROJECT_DIR$/CiftSayilariBulan/CiftSayilariBulan.iml" />
       <module fileurl="file://$PROJECT_DIR$/CinZodyakHesaplama/CinZodyakHesaplama.iml" filepath="$PROJECT_DIR$/CinZodyakHesaplama/CinZodyakHesaplama.iml" />
@@ -22,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/HesapMakinesi/HesapMakinesi.iml" filepath="$PROJECT_DIR$/HesapMakinesi/HesapMakinesi.iml" />
       <module fileurl="file://$PROJECT_DIR$/KDV/KDV.iml" filepath="$PROJECT_DIR$/KDV/KDV.iml" />
       <module fileurl="file://$PROJECT_DIR$/KullaniciGirisi/KullaniciGirisi.iml" filepath="$PROJECT_DIR$/KullaniciGirisi/KullaniciGirisi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaasHesaplayici/MaasHesaplayici.iml" filepath="$PROJECT_DIR$/MaasHesaplayici/MaasHesaplayici.iml" />
       <module fileurl="file://$PROJECT_DIR$/ManavKasaProgram/ManavKasaProgram.iml" filepath="$PROJECT_DIR$/ManavKasaProgram/ManavKasaProgram.iml" />
       <module fileurl="file://$PROJECT_DIR$/Metotlar/Metotlar.iml" filepath="$PROJECT_DIR$/Metotlar/Metotlar.iml" />
       <module fileurl="file://$PROJECT_DIR$/MinMaxDegerleriBulma/MinMaxDegerleriBulma.iml" filepath="$PROJECT_DIR$/MinMaxDegerleriBulma/MinMaxDegerleriBulma.iml" />
