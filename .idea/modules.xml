@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/BurcBulanProgram/BurcBulanProgram.iml" filepath="$PROJECT_DIR$/BurcBulanProgram/BurcBulanProgram.iml" />
       <module fileurl="file://$PROJECT_DIR$/CiftSayilariBulan/CiftSayilariBulan.iml" filepath="$PROJECT_DIR$/CiftSayilariBulan/CiftSayilariBulan.iml" />
       <module fileurl="file://$PROJECT_DIR$/CinZodyakHesaplama/CinZodyakHesaplama.iml" filepath="$PROJECT_DIR$/CinZodyakHesaplama/CinZodyakHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Constructor/Constructor.iml" filepath="$PROJECT_DIR$/Constructor/Constructor.iml" />
       <module fileurl="file://$PROJECT_DIR$/DaireninAlanıCevresi/DaireninAlanıCevresi.iml" filepath="$PROJECT_DIR$/DaireninAlanıCevresi/DaireninAlanıCevresi.iml" />
       <module fileurl="file://$PROJECT_DIR$/EbobEkok/EbobEkok.iml" filepath="$PROJECT_DIR$/EbobEkok/EbobEkok.iml" />
       <module fileurl="file://$PROJECT_DIR$/FaktoriyelHesaplama/FaktoriyelHesaplama.iml" filepath="$PROJECT_DIR$/FaktoriyelHesaplama/FaktoriyelHesaplama.iml" />
@@ -25,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/Metotlar/Metotlar.iml" filepath="$PROJECT_DIR$/Metotlar/Metotlar.iml" />
       <module fileurl="file://$PROJECT_DIR$/MinMaxDegerleriBulma/MinMaxDegerleriBulma.iml" filepath="$PROJECT_DIR$/MinMaxDegerleriBulma/MinMaxDegerleriBulma.iml" />
       <module fileurl="file://$PROJECT_DIR$/MukemmelSayiBulma/MukemmelSayiBulma.iml" filepath="$PROJECT_DIR$/MukemmelSayiBulma/MukemmelSayiBulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OgrenciBilgiSistemi/OgrenciBilgiSistemi.iml" filepath="$PROJECT_DIR$/OgrenciBilgiSistemi/OgrenciBilgiSistemi.iml" />
       <module fileurl="file://$PROJECT_DIR$/PalindromSayi/PalindromSayi.iml" filepath="$PROJECT_DIR$/PalindromSayi/PalindromSayi.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecursiveDeseneGoreMetot/RecursiveDeseneGoreMetot.iml" filepath="$PROJECT_DIR$/RecursiveDeseneGoreMetot/RecursiveDeseneGoreMetot.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecursiveFibonacciSerisiBulma/RecursiveFibonacciSerisiBulma.iml" filepath="$PROJECT_DIR$/RecursiveFibonacciSerisiBulma/RecursiveFibonacciSerisiBulma.iml" />
