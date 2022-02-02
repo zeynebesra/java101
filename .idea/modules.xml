@@ -20,8 +20,10 @@
       <module fileurl="file://$PROJECT_DIR$/KDV/KDV.iml" filepath="$PROJECT_DIR$/KDV/KDV.iml" />
       <module fileurl="file://$PROJECT_DIR$/KullaniciGirisi/KullaniciGirisi.iml" filepath="$PROJECT_DIR$/KullaniciGirisi/KullaniciGirisi.iml" />
       <module fileurl="file://$PROJECT_DIR$/ManavKasaProgram/ManavKasaProgram.iml" filepath="$PROJECT_DIR$/ManavKasaProgram/ManavKasaProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Metotlar/Metotlar.iml" filepath="$PROJECT_DIR$/Metotlar/Metotlar.iml" />
       <module fileurl="file://$PROJECT_DIR$/MinMaxDegerleriBulma/MinMaxDegerleriBulma.iml" filepath="$PROJECT_DIR$/MinMaxDegerleriBulma/MinMaxDegerleriBulma.iml" />
       <module fileurl="file://$PROJECT_DIR$/MukemmelSayiBulma/MukemmelSayiBulma.iml" filepath="$PROJECT_DIR$/MukemmelSayiBulma/MukemmelSayiBulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PalindromSayi/PalindromSayi.iml" filepath="$PROJECT_DIR$/PalindromSayi/PalindromSayi.iml" />
       <module fileurl="file://$PROJECT_DIR$/SayilarinSiralayin/SayilarinSiralayin.iml" filepath="$PROJECT_DIR$/SayilarinSiralayin/SayilarinSiralayin.iml" />
       <module fileurl="file://$PROJECT_DIR$/SinifiGecme/SinifiGecme.iml" filepath="$PROJECT_DIR$/SinifiGecme/SinifiGecme.iml" />
       <module fileurl="file://$PROJECT_DIR$/TekSayiToplamiBulan/TekSayiToplamiBulan.iml" filepath="$PROJECT_DIR$/TekSayiToplamiBulan/TekSayiToplamiBulan.iml" />
